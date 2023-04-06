@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+$XDG_STATE_HOME/
+IN/
+OUT/
+
 # Distribution / packaging
 .Python
 build/
